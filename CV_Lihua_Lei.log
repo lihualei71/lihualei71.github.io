@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.14)  29 OCT 2023 21:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.14)  4 DEC 2023 10:50
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**CV_Lihua_Lei.tex
+**CV_Lihua_Lei
 (./CV_Lihua_Lei.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
@@ -339,13 +338,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-Overfull \hbox (0.82751pt too wide) in paragraph at lines 191--192
-\OT1/cmr/m/n/10 Test: Cal-i-brat-ing Pre-dic-tive Al-go-rithms to Achieve Risk 
-Con-trol. \OT1/cmr/m/it/10 Arxiv e-prints, abs/2110.01052\OT1/cmr/m/n/10 . 
- []
-
-[3] [4] [5] [6] (./CV_Lihua_Lei.aux)
+[2] [3] [4] [5] [6] (./CV_Lihua_Lei.aux)
 Package rerunfilecheck Info: File `CV_Lihua_Lei.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -356,7 +349,7 @@ Here is how much of TeX's memory you used:
  26423 multiletter control sequences out of 15000+600000
  473758 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,1237b,410s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,8n,63p,1233b,410s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -372,7 +365,7 @@ ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
 022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
 22/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV_Lihua_Lei.pdf (6 pages, 186001 bytes).
+Output written on CV_Lihua_Lei.pdf (6 pages, 186476 bytes).
 PDF statistics:
  163 PDF objects out of 1000 (max. 8388607)
  125 compressed objects within 2 object streams

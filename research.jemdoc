@@ -40,6 +40,8 @@
 
 == Conference Publications
 
+- [https://arxiv.org/abs/2309.04002 Total Variation Floodgate for Variable Importance Inference in Classification], Wenshuo Wang, Lucas Janson, *Lihua Lei*, Aaditya Ramdas, /International Conference on Machine Learning (ICML), 2024/.
+
 - [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, /International Conference on Learning Representations (ICLR), 2023/.
 
 - [https://arxiv.org/abs/2001.09623 Variance Reduction with Sparse Gradients], Melih Elibol, *Lihua Lei*, Michael I. Jordan, /International Conference on Learning Representations (ICLR), 2020/.
@@ -64,6 +66,8 @@
 
 == Preprints
 
+- [rank_reg_causal.pdf Causal Interpretation of Regressions With Ranks], *Lihua Lei*, 2024
+
 - [https://arxiv.org/abs/2402.05203 Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series], Zitong Yang, Emmanuel Candès, and *Lihua Lei*, 2024
 
 - [https://arxiv.org/abs/2401.07152 Inference for Synthetic Controls via Refined Placebo Tests], *Lihua Lei* and Timothy Sudijono, 2024
@@ -73,8 +77,6 @@
 - [https://arxiv.org/abs/2310.14983 Causal clustering: design of cluster experiments under network interference], Davide Viviano, *Lihua Lei*, Guido Imbens, Brian Karrer, Okke Schrijvers, Liang Shi, 2023
 
 - [https://arxiv.org/abs/2310.08115 Model-Agnostic Covariate-Assisted Inference on Partially Identified Causal Effects], Wenlong Ji, *Lihua Lei*, Asher Spector, 2023
-
-- [https://arxiv.org/abs/2309.04002 Total Variation Floodgate for Variable Importance Inference in Classification], Wenshuo Wang, Lucas Janson, *Lihua Lei*, Aaditya Ramdas, 2023
 
 - [dist_free_extremum_conditional_mean.pdf Distribution-free inference on the extremum of conditional expectations via classification], *Lihua Lei*, 2023
 

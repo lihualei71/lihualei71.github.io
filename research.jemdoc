@@ -58,7 +58,9 @@
 
 == Under Revision
 
-- [https://arxiv.org/abs/2209.01754 Learning from a Biased Sample], Roshni Sahoo, *Lihua Lei*, and Stefan Wager. Under R\&R at /Management Science (MS)/.
+- [https://arxiv.org/abs/2312.07520 Estimating Counterfactual Matrix Means with Short Panel Data], *Lihua Lei* and Brad Ross, 2023. Under R\&R at /Econometrica/.
+
+- [https://arxiv.org/abs/2209.01754 Learning from a Biased Sample], Roshni Sahoo, *Lihua Lei*, and Stefan Wager, 2022. Under R\&R at /Management Science (MS)/.
 
 - [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2022. Under R\&R at /Annals of Statistics (AoS)/.
 
@@ -66,13 +68,17 @@
 
 == Preprints
 
-- [rank_reg_causal.pdf Causal Interpretation of Regressions With Ranks], *Lihua Lei*, 2024
+- [https://arxiv.org/abs/2501.09731 Predictions as surrogates: Revisiting surrogate outcomes in the age of AI], Wenlong Ji, *Lihua Lei*, Tijana Zrnic, 2025
+
+- [https://arxiv.org/abs/2501.09015 Family-wise Error Rate Control with E-values], William Hartog, *Lihua Lei*, 2025
+
+- [https://arxiv.org/abs/2408.07231 Estimating the FDR of variable selection], Yixiang Luo, William Fithian, *Lihua Lei*, 2025
+
+- [https://arxiv.org/abs/2406.05548 Causal Interpretation of Regressions With Ranks], *Lihua Lei*, 2024
 
 - [https://arxiv.org/abs/2402.05203 Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series], Zitong Yang, Emmanuel Candès, and *Lihua Lei*, 2024
 
 - [https://arxiv.org/abs/2401.07152 Inference for Synthetic Controls via Refined Placebo Tests], *Lihua Lei* and Timothy Sudijono, 2024
-
-- [https://arxiv.org/abs/2312.07520 Estimating Counterfactual Matrix Means with Short Panel Data], *Lihua Lei* and Brad Ross, 2023
 
 - [https://arxiv.org/abs/2310.14983 Causal clustering: design of cluster experiments under network interference], Davide Viviano, *Lihua Lei*, Guido Imbens, Brian Karrer, Okke Schrijvers, Liang Shi, 2023
 

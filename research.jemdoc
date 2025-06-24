@@ -2,7 +2,11 @@
 
 == Journal Publications
 
-- [https://arxiv.org/abs/2110.01052 Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, and *Lihua Lei*. /To appear in Annals of Applied Statistics (AoAS)/.
+- [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2025. /To appear in Annals of Statistics (AoS)/.
+
+- [https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Learn-then-test--Calibrating-predictive-algorithms-to-achieve-risk/10.1214/24-AOAS1998.full Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, and *Lihua Lei*, 2025 /Annals of Applied Statistics (AoAS), 19(2), 1641-1662/. [https://arxiv.org/abs/2110.01052 Arxiv]
+
+- [https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2441416 Discussion of ”Data Fission: Splitting a Single Data Point” – Some Asymptotic Results for Data Fission]. *Lihua Lei*, 2025, /Journal of the American Statistical Association (JASA)}, 120(549), 147-150, (invited discussion paper)/. [https://arxiv.org/abs/2409.03069 Arxiv]
 
 - [https://onlinelibrary.wiley.com/doi/full/10.3982/QE1962 Double-Robust Two-Way-Fixed-Effects Regression For Panel Data], Dmitry Arkhangelsky, Guido W. Imbens, *Lihua Lei*, and Xiaoman Luo, 2021. /Quantitative Economics (QE), 15(4), 999-1034/. [https://arxiv.org/abs/2107.13737 Arxiv]
 
@@ -44,6 +48,8 @@
 
 == Conference Publications
 
+- [https://arxiv.org/abs/2502.20285 Conformal Tail Risk Control for Large Language Model Alignment], Catherine Chen, Jingyan Shen, J., Zhun Deng, *Lihua Lei*, /International Conference on Machine Learning (ICML), 2025/.
+
 - [https://arxiv.org/abs/2309.04002 Total Variation Floodgate for Variable Importance Inference in Classification], Wenshuo Wang, Lucas Janson, *Lihua Lei*, Aaditya Ramdas, /International Conference on Machine Learning (ICML), 2024/.
 
 - [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, /International Conference on Learning Representations (ICLR), 2023/.
@@ -60,19 +66,19 @@
 
 == Under Revision
 
+- [https://arxiv.org/abs/2310.08115 Model-Agnostic Covariate-Assisted Inference on Partially Identified Causal Effects], Wenlong Ji, *Lihua Lei*, Asher Spector, 2023. Under Major Revision at \emph{Journal of Political Economy (JPE))}.
+
+- [https://arxiv.org/abs/2408.07231 Estimating the FDR of variable selection], Yixiang Luo, William Fithian, *Lihua Lei*, 2024. Under Major Revision at \emph{Annals of Statistics (AoS)}.
+
 - [https://arxiv.org/abs/2312.07520 Estimating Counterfactual Matrix Means with Short Panel Data], *Lihua Lei* and Brad Ross, 2023. Under R\&R at /Econometrica/.
 
 - [https://arxiv.org/abs/2209.01754 Learning from a Biased Sample], Roshni Sahoo, *Lihua Lei*, and Stefan Wager, 2022. Under R\&R at /Management Science (MS)/.
-
-- [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2022. Under R\&R at /Annals of Statistics (AoS)/.
 
 == Preprints
 
 - [https://arxiv.org/abs/2501.09731 Predictions as surrogates: Revisiting surrogate outcomes in the age of AI], Wenlong Ji, *Lihua Lei*, Tijana Zrnic, 2025
 
 - [https://arxiv.org/abs/2501.09015 Family-wise Error Rate Control with E-values], William Hartog, *Lihua Lei*, 2025
-
-- [https://arxiv.org/abs/2408.07231 Estimating the FDR of variable selection], Yixiang Luo, William Fithian, *Lihua Lei*, 2025
 
 - [https://arxiv.org/abs/2406.05548 Causal Interpretation of Regressions With Ranks], *Lihua Lei*, 2024
 
@@ -81,8 +87,6 @@
 - [https://arxiv.org/abs/2401.07152 Inference for Synthetic Controls via Refined Placebo Tests], *Lihua Lei* and Timothy Sudijono, 2024
 
 - [https://arxiv.org/abs/2310.14983 Causal clustering: design of cluster experiments under network interference], Davide Viviano, *Lihua Lei*, Guido Imbens, Brian Karrer, Okke Schrijvers, Liang Shi, 2023
-
-- [https://arxiv.org/abs/2310.08115 Model-Agnostic Covariate-Assisted Inference on Partially Identified Causal Effects], Wenlong Ji, *Lihua Lei*, Asher Spector, 2023
 
 - [dist_free_extremum_conditional_mean.pdf Distribution-free inference on the extremum of conditional expectations via classification], *Lihua Lei*, 2023
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.14)  26 NOV 2025 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.14)  16 FEB 2026 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,13 +339,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] [7] (./CV_Lihua_Lei.aux)
+[2] [3] [4] [5] [6] [7] [8] (./CV_Lihua_Lei.aux)
 Package rerunfilecheck Info: File `CV_Lihua_Lei.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8343 strings out of 478268
- 130857 string characters out of 5846347
+ 8346 strings out of 478268
+ 130877 string characters out of 5846347
  436881 words of memory out of 5000000
  26423 multiletter control sequences out of 15000+600000
  473758 words of font info for 43 fonts, out of 8000000 for 9000
@@ -366,10 +366,10 @@ ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
 022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
 22/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/202
 2/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV_Lihua_Lei.pdf (7 pages, 190380 bytes).
+Output written on CV_Lihua_Lei.pdf (8 pages, 190832 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 145 compressed objects within 2 object streams
- 65 named destinations out of 1000 (max. 500000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 68 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

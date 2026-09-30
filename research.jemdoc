@@ -2,9 +2,11 @@
 
 == Journal Publications
 
+- [https://arxiv.org/abs/2408.07231 Estimating the FDR of variable selection], Yixiang Luo, William Fithian, *Lihua Lei*, 2024. /To appear in Annals of Statistics (AoS)/.
+
 - [https://arxiv.org/abs/2208.09542 Improving knockoffs with conditional calibration], Yixiang Luo, William Fithian, and *Lihua Lei*, 2025. /To appear in Annals of Statistics (AoS)/.
 
-- [https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Learn-then-test--Calibrating-predictive-algorithms-to-achieve-risk/10.1214/24-AOAS1998.full Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, and *Lihua Lei*, 2025 /Annals of Applied Statistics (AoAS), 19(2), 1641-1662/. [https://arxiv.org/abs/2110.01052 Arxiv]
+# - [https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Learn-then-test--Calibrating-predictive-algorithms-to-achieve-risk/10.1214/24-AOAS1998.full Learn then Test: Calibrating Predictive Algorithms to Achieve Risk Control], Anastasios Angelopoulos, Stephen Bates, Emmanuel Candès, Michael I. Jordan, and *Lihua Lei*, 2025 /Annals of Applied Statistics (AoAS), 19(2), 1641-1662/. [https://arxiv.org/abs/2110.01052 Arxiv]
 
 - [https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2441416 Discussion of ”Data Fission: Splitting a Single Data Point” – Some Asymptotic Results for Data Fission]. *Lihua Lei*, 2025, /Journal of the American Statistical Association (JASA)}, 120(549), 147-150, (invited discussion paper)/. [https://arxiv.org/abs/2409.03069 Arxiv]
 
@@ -22,7 +24,7 @@
 
 - [https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Conditional-calibration-for-false-discovery-rate-control-under-dependence/10.1214/21-AOS2137.full Conditional calibration for false discovery rate control under dependence], William Fithian, and *Lihua Lei*, 2022. /Annals of Statistics (AoS), 50(6), 3091-3118/. [https://arxiv.org/abs/2007.10438 Arxiv]
 
-- [https://dl.acm.org/doi/10.1145/3478535 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /Journal of the ACM, 68 (2021), 1-34/. [https://arxiv.org/abs/2101.02703 Arxiv]
+# - [https://dl.acm.org/doi/10.1145/3478535 Distribution-Free, Risk-Controlling Prediction Sets], Stephen Bates, Anastasios Angelopoulos, *Lihua Lei*, Jitendra Malik, and Michael I. Jordan, 2021. /Journal of the ACM, 68 (2021), 1-34/. [https://arxiv.org/abs/2101.02703 Arxiv]
 
 - [https://academic.oup.com/biomet/article-abstract/109/2/457/6362862?redirectedFrom=fulltext Smoothed Nested Testing on Directed Acyclic Graphs], Jackson H. Loper, *Lihua Lei*, William Fithian, and Wesley Tansey, 2021. /To appear in Biometrika/. [https://arxiv.org/abs/1911.09200 Arxiv]
 
@@ -46,29 +48,27 @@
 
 - [http://www3.stat.sinica.edu.tw/statistica/j26n4/j26n416/j26n416.html Functional Coefficient Moving Average Model With Applications To Forecasting Chinese CPI], Song Xi Chen, *Lihua Lei*, and Yundong Tu. /Statistica Sinica, 26, 1649-1672/.
 
-== Conference Publications
+# == Conference Publications
 
-- [https://arxiv.org/abs/2502.20285 Conformal Tail Risk Control for Large Language Model Alignment], Catherine Chen, Jingyan Shen, J., Zhun Deng, *Lihua Lei*, /International Conference on Machine Learning (ICML), 2025/.
+# - [https://arxiv.org/abs/2502.20285 Conformal Tail Risk Control for Large Language Model Alignment], Catherine Chen, Jingyan Shen, J., Zhun Deng, *Lihua Lei*, /International Conference on Machine Learning (ICML), 2025/.
 
-- [https://arxiv.org/abs/2309.04002 Total Variation Floodgate for Variable Importance Inference in Classification], Wenshuo Wang, Lucas Janson, *Lihua Lei*, Aaditya Ramdas, /International Conference on Machine Learning (ICML), 2024/.
+# - [https://arxiv.org/abs/2309.04002 Total Variation Floodgate for Variable Importance Inference in Classification], Wenshuo Wang, Lucas Janson, *Lihua Lei*, Aaditya Ramdas, /International Conference on Machine Learning (ICML), 2024/.
 
-- [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, /International Conference on Learning Representations (ICLR), 2023/.
+# - [https://arxiv.org/abs/2208.02814 Conformal Risk Control] Anastasios Angelopoulos, Stephen Bates, Adam Fisch, *Lihua Lei*, and Tal Schuster, /International Conference on Learning Representations (ICLR), 2023/.
 
-- [https://arxiv.org/abs/2001.09623 Variance Reduction with Sparse Gradients], Melih Elibol, *Lihua Lei*, Michael I. Jordan, /International Conference on Learning Representations (ICLR), 2020/.
+# - [https://arxiv.org/abs/2001.09623 Variance Reduction with Sparse Gradients], Melih Elibol, *Lihua Lei*, Michael I. Jordan, /International Conference on Learning Representations (ICLR), 2020/.
 
-- [https://arxiv.org/abs/1610.04329 HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step], Yuting Ye, *Lihua Lei*, and Cheng Ju, /International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/.
+# - [https://arxiv.org/abs/1610.04329 HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step], Yuting Ye, *Lihua Lei*, and Cheng Ju, /International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/.
 
-- [https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf Nonconvex Finite-Sum Optimization Via SCSG Methods], *Lihua Lei*, Cheng Ju, Jianbo Chen, and Michael I. Jordan. /Advances in Neural Information Processing Systems (NIPS), 2017/. [https://arxiv.org/abs/1706.09156 Arxiv]
+# - [https://papers.nips.cc/paper/6829-non-convex-finite-sum-optimization-via-scsg-methods.pdf Nonconvex Finite-Sum Optimization Via SCSG Methods], *Lihua Lei*, Cheng Ju, Jianbo Chen, and Michael I. Jordan. /Advances in Neural Information Processing Systems (NIPS), 2017/. [https://arxiv.org/abs/1706.09156 Arxiv]
 
-- [http://proceedings.mlr.press/v54/lei17a.html Less than a Single Pass: Stochastically Controlled Stochastic Gradient Method], *Lihua Lei*, and Michael I. Jordan. /International Conference on Artificial Intelligence and Statistics (AISTATS), 2016/. [https://arxiv.org/abs/1609.03261 Arxiv] (The Arxiv version adds an erratum for the AISTATS camera-ready version)
+# - [http://proceedings.mlr.press/v54/lei17a.html Less than a Single Pass: Stochastically Controlled Stochastic Gradient Method], *Lihua Lei*, and Michael I. Jordan. /International Conference on Artificial Intelligence and Statistics (AISTATS), 2016/. [https://arxiv.org/abs/1609.03261 Arxiv] (The Arxiv version adds an erratum for the AISTATS camera-ready version)
 
-- [http://proceedings.mlr.press/v48/lei16.pdf Power of Ordered Hypothesis Testing], *Lihua Lei*, and William Fithian. /International Conference on Machine Learning (ICML), 2016/. [https://arxiv.org/abs/1606.01969 Arxiv]
+# - [http://proceedings.mlr.press/v48/lei16.pdf Power of Ordered Hypothesis Testing], *Lihua Lei*, and William Fithian. /International Conference on Machine Learning (ICML), 2016/. [https://arxiv.org/abs/1606.01969 Arxiv]
 
 == Under Revision
 
 - [https://arxiv.org/abs/2310.08115 Model-Agnostic Covariate-Assisted Inference on Partially Identified Causal Effects], Wenlong Ji, *Lihua Lei*, Asher Spector, 2023. Under Major Revision /Journal of Political Economy (JPE)/.
-
-- [https://arxiv.org/abs/2408.07231 Estimating the FDR of variable selection], Yixiang Luo, William Fithian, *Lihua Lei*, 2024. Under Major Revision at /Annals of Statistics (AoS)/.
 
 - [https://arxiv.org/abs/2312.07520 Estimating Counterfactual Matrix Means with Short Panel Data], *Lihua Lei* and Brad Ross, 2023. Under R\&R at /Econometrica/.
 
@@ -80,13 +80,13 @@
 
 - [https://arxiv.org/abs/2607.12345 Forecasting Inflation with Microdata: An Adaptive Machine Learning Approach] Catherine Chen, Chen Gao, Jonathon Hazell, *Lihua Lei*, Chen Lian, 2026
 
-- [https://arxiv.org/abs/2501.09731 Predictions as surrogates: Revisiting surrogate outcomes in the age of AI], Wenlong Ji, *Lihua Lei*, Tijana Zrnic, 2025
+# - [https://arxiv.org/abs/2501.09731 Predictions as surrogates: Revisiting surrogate outcomes in the age of AI], Wenlong Ji, *Lihua Lei*, Tijana Zrnic, 2025
 
 - [https://arxiv.org/abs/2501.09015 Family-wise Error Rate Control with E-values], William Hartog, *Lihua Lei*, 2025
 
 - [https://arxiv.org/abs/2406.05548 Causal Interpretation of Regressions With Ranks], *Lihua Lei*, 2024
 
-- [https://arxiv.org/abs/2402.05203 Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series], Zitong Yang, Emmanuel Candès, and *Lihua Lei*, 2024
+# - [https://arxiv.org/abs/2402.05203 Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series], Zitong Yang, Emmanuel Candès, and *Lihua Lei*, 2024
 
 - [https://arxiv.org/abs/2401.07152 Inference for Synthetic Controls via Refined Placebo Tests], *Lihua Lei* and Timothy Sudijono, 2024
 
